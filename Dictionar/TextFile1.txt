@@ -1,0 +1,5 @@
+balena,mamifer,foarte mare si traieste in ocean,C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\balena.png
+musca,insecta,zboara si este foarte mica,C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\musca.png
+laptop,IT,Un device interesant,C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\laptop.png
+pisica,animale,animal pufos si felina,C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\pisica.png
+caine,animale,cel mai bun prieten al omului,C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\caine.pngtort,mancare,dulce si gustos si ceva,C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\tort.png

@@ -1,0 +1,52 @@
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\bin\Debug\Dictionar.exe.config
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\bin\Debug\Dictionar.exe
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\bin\Debug\Dictionar.pdb
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.csprojAssemblyReference.cache
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Administrative_Module.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Delete.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Entertainment_Module.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Modify.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Search_Module.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Menu.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\App.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar_MarkupCompile.cache
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar_MarkupCompile.lref
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Administrative_Module.baml
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Delete.baml
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Entertainment_Module.baml
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Modify.baml
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Search_Module.baml
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Menu.baml
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.g.resources
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.Properties.Resources.resources
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.csproj.GenerateResource.cache
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.csproj.CoreCompileInputs.cache
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.exe
+F:\Facultate\Anul II\SemII\Medii Vizuale de Programare\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.pdb
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\bin\Debug\Dictionar.exe.config
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\bin\Debug\Dictionar.exe
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\bin\Debug\Dictionar.pdb
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.csprojAssemblyReference.cache
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Administrative_Module.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Delete.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Entertainment_Module.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Modify.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Search_Module.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Menu.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\App.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar_MarkupCompile.cache
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar_MarkupCompile.lref
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Administrative_Module.baml
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Delete.baml
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Entertainment_Module.baml
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Modify.baml
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Search_Module.baml
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Menu.baml
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.g.resources
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.Properties.Resources.resources
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.csproj.GenerateResource.cache
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.csproj.CoreCompileInputs.cache
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.exe
+C:\Users\vladd\OneDrive\Documents\Facultate\AN 2\MVP\Team 1\Dictionar\Dictionar\obj\Debug\Dictionar.pdb
